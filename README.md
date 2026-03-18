@@ -1,6 +1,6 @@
 # Router
 
-A software IPv4 router written in C. Built for the Computer Networks (PCOM) course lab assignment.
+A software IPv4 router written in C.
 
 ## What it does
 
